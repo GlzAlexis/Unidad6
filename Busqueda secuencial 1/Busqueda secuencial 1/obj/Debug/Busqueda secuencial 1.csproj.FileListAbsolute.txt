@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\bin\Debug\Busqueda secuencial 1.exe.config
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\bin\Debug\Busqueda secuencial 1.exe
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\bin\Debug\Busqueda secuencial 1.pdb
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\obj\Debug\Busqueda secuencial 1.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\obj\Debug\Busqueda secuencial 1.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\obj\Debug\Busqueda secuencial 1.exe
+C:\Users\Your fucking mom\source\repos\Busqueda secuencial 1\Busqueda secuencial 1\obj\Debug\Busqueda secuencial 1.pdb

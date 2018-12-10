@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\bin\Debug\6-2 Busqueda binaria.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\bin\Debug\6-2 Busqueda binaria.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\bin\Debug\6-2 Busqueda binaria.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\obj\Debug\6-2 Busqueda binaria.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\obj\Debug\6-2 Busqueda binaria.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\obj\Debug\6-2 Busqueda binaria.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-2 Busqueda binaria\6-2 Busqueda binaria\obj\Debug\6-2 Busqueda binaria.pdb

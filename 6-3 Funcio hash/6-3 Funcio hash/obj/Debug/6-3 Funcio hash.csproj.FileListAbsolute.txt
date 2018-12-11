@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\bin\Debug\6-3 Funcio hash.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\bin\Debug\6-3 Funcio hash.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\bin\Debug\6-3 Funcio hash.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\obj\Debug\6-3 Funcio hash.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\obj\Debug\6-3 Funcio hash.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\obj\Debug\6-3 Funcio hash.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad6\6-3 Funcio hash\6-3 Funcio hash\obj\Debug\6-3 Funcio hash.pdb
